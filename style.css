@@ -1,0 +1,12 @@
+body{
+    background-color: fuchsia;
+    text-align: center;
+}
+#heading{
+    color:cyan;
+}
+#bts{
+    width:550px;
+    border-style:dashed;
+    border-color:aqua;
+}
